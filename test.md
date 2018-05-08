@@ -27,10 +27,10 @@ interchangeability and maintainability.
 
 | Project | Packagist |
 |---------|-----------|
-| [psr/log](#psr-log) | [![Latest Stable](http://img.shields.io/packagist/v/psr/log.svg)](https://packagist.org/packages/psr/log) |
-| [psr/cache](#psr-cache) | [![Latest Stable](http://img.shields.io/packagist/v/psr/cache.svg)](https://packagist.org/packages/psr/cache) |
-| [psr/container](#psr-container) | [![Latest Stable](http://img.shields.io/packagist/v/psr/container.svg)](https://packagist.org/packages/psr/container) |
-| [psr/http-message](#psr-http-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) |
+| [psr/log](#psrlog) | [![Latest Stable](http://img.shields.io/packagist/v/psr/log.svg)](https://packagist.org/packages/psr/log) |
+| [psr/cache](#psrcache) | [![Latest Stable](http://img.shields.io/packagist/v/psr/cache.svg)](https://packagist.org/packages/psr/cache) |
+| [psr/container](#psrcontainer) | [![Latest Stable](http://img.shields.io/packagist/v/psr/container.svg)](https://packagist.org/packages/psr/container) |
+| [psr/http-message](#psrhttp-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) |
 | [container-interop/container-interop](#container-interopcontainer-interop) | [![Latest Stable](http://img.shields.io/packagist/v/container-interop/container-interop.svg)](https://packagist.org/packages/container-interop/container-interop) |
 | [flamecore/event-observer](https://github.com/FlameCore/EventObserver) | [![Latest Stable](http://img.shields.io/packagist/v/flamecore/event-observer.svg)](https://packagist.org/packages/flamecore/event-observer) |
 
