@@ -25,22 +25,21 @@ interchangeability and maintainability.
 
 (Click on an item to get a list of available implementations)
 
-| Project | Packagist |
-|---------|-----------|
-| [psr/log](#psrlog) | [![Latest Stable](http://img.shields.io/packagist/v/psr/log.svg)](https://packagist.org/packages/psr/log) |
-| [psr/cache](#psrcache) | [![Latest Stable](http://img.shields.io/packagist/v/psr/cache.svg)](https://packagist.org/packages/psr/cache) |
-| [psr/container](#psrcontainer) | [![Latest Stable](http://img.shields.io/packagist/v/psr/container.svg)](https://packagist.org/packages/psr/container) |
-| [psr/http-message](#psrhttp-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) |
-| [container-interop/container-interop](#container-interopcontainer-interop) | [![Latest Stable](http://img.shields.io/packagist/v/container-interop/container-interop.svg)](https://packagist.org/packages/container-interop/container-interop) |
-| [flamecore/event-observer](https://github.com/FlameCore/EventObserver) | [![Latest Stable](http://img.shields.io/packagist/v/flamecore/event-observer.svg)](https://packagist.org/packages/flamecore/event-observer) |
+| Project | Packagist | Implementations |
+|---------|-----------|-----------------|
+| [psr/log](https://github.com/php-fig/log) | [![Latest Stable](http://img.shields.io/packagist/v/psr/log.svg)](https://packagist.org/packages/psr/log) | [Compatible Packages](https://packagist.org/providers/psr/log-implementation) |
+| [psr/cache](https://github.com/php-fig/cache) | [![Latest Stable](http://img.shields.io/packagist/v/psr/cache.svg)](https://packagist.org/packages/psr/cache) | [Compatible Packages](https://packagist.org/providers/psr/cache-implementation)
+| [psr/container](https://github.com/php-fig/container) | [![Latest Stable](http://img.shields.io/packagist/v/psr/container.svg)](https://packagist.org/packages/psr/container) | [Compatible Packages](https://packagist.org/providers/psr/container-implementation) |
+| [psr/http-message](https://github.com/php-fig/http-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) | [Compatible Packages](https://packagist.org/providers/psr/http-message-implementation) |
+| [container-interop/container-interop](https://github.com/container-interop/container-interop) | [![Latest Stable](http://img.shields.io/packagist/v/container-interop/container-interop.svg)](https://packagist.org/packages/container-interop/container-interop) | [Compatible Packages](https://packagist.org/providers/container-interop/container-interop-implementation) |
+| [flamecore/event-observer](https://github.com/FlameCore/EventObserver) | [![Latest Stable](http://img.shields.io/packagist/v/flamecore/event-observer.svg)](https://packagist.org/packages/flamecore/event-observer) | Compatible Packages |
 
 ## Drafts
 
 | Project | Packagist | Status |
 |---------|-----------|--------|
-| [adammbalogh/key-value-store](#adammbaloghkey-value-store) | [![Latest Stable](http://img.shields.io/packagist/v/adammbalogh/key-value-store.svg)](https://packagist.org/packages/adammbalogh/key-value-store) | Draft |
+| [adammbalogh/key-value-store](https://github.com/adammbalogh/key-value-store) | [![Latest Stable](http://img.shields.io/packagist/v/adammbalogh/key-value-store.svg)](https://packagist.org/packages/adammbalogh/key-value-store) | Draft |
 | [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | [![Latest Stable](http://img.shields.io/packagist/v/rkr/php-di-ioc-adapter.svg)](https://packagist.org/packages/rkr/php-di-ioc-adapter) | Draft |
-
 
 ## Noteworthy projects
 
@@ -70,52 +69,3 @@ interchangeability and maintainability.
 * Validation
 
 
-## Interfaces/Contracts
-
-### psr/log
-
-[Project homepage](https://github.com/php-fig/log)
-
-**Available packages**
-
-* [These packages provide an implementation](https://packagist.org/providers/psr/log-implementation)
-
-### psr/cache
-
-[Project homepage](https://github.com/php-fig/cache)
-
-**Available packages**
-
-* [These packages provide an implementation](https://packagist.org/providers/psr/cache-implementation)
-
-### psr/container
-
-[Project homepage](https://github.com/php-fig/container)
-
-**Available packages**
-
-* [These packages provide an implementation](https://packagist.org/providers/psr/container-implementation)
-
-### psr/http-message
-
-[Project homepage](https://github.com/php-fig/http-message)
-
-**Available packages**
-
-* [These packages provide an implementation](https://packagist.org/providers/psr/http-message-implementation)
-
-### container-interop/container-interop
-
-[Project homepage](https://github.com/container-interop/container-interop)
-
-**Available packages**
-
-* [These packages provide an implementation](https://packagist.org/providers/container-interop/container-interop-implementation)
-
-### adammbalogh/key-value-store
-
-[Project homepage](https://github.com/adammbalogh/key-value-store)
-
-**Available components**
-
-* [adammbalogh/key-value-store (Various Adapters)](https://github.com/adammbalogh/key-value-store#adapters)
